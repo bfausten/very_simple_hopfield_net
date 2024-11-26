@@ -54,4 +54,3 @@ def test(num=100, max_iterations=20):
             ax.axis('off')
     plt.show()
     return counter_h, counter_s, counter_c, counter_miss
-test(1000, 20)
